@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\Homework-Introduction\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\Administrator\Desktop\Homework-Introduction\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\Administrator\Desktop\Homework-Introduction\PrintMyName\obj\x86\Debug\PrintMyName.exe
+C:\Users\Administrator\Desktop\Homework-Introduction\PrintMyName\obj\x86\Debug\PrintMyName.pdb

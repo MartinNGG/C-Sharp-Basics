@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Homework - Primitive Data\Boolean\bin\Debug\Boolean.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\Boolean\bin\Debug\Boolean.pdb
+C:\Users\Administrator\Desktop\Homework - Primitive Data\Boolean\obj\x86\Debug\Boolean.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\Boolean\obj\x86\Debug\Boolean.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\Boolean\obj\x86\Debug\Boolean.exe
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\Boolean\obj\x86\Debug\Boolean.pdb

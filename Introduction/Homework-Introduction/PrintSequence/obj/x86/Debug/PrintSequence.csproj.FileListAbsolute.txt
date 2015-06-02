@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Homework-Introduction\PrintSequence\bin\Debug\PrintSequence.exe
+C:\Users\Administrator\Desktop\Homework-Introduction\PrintSequence\bin\Debug\PrintSequence.pdb
+C:\Users\Administrator\Desktop\Homework-Introduction\PrintSequence\obj\x86\Debug\PrintSequence.exe
+C:\Users\Administrator\Desktop\Homework-Introduction\PrintSequence\obj\x86\Debug\PrintSequence.pdb
+C:\Users\Administrator\Desktop\Homework-Introduction\PrintSequence\obj\x86\Debug\PrintSequence.csprojResolveAssemblyReference.cache

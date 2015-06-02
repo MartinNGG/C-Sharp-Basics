@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Homework - Primitive Data\VariableHex\bin\Debug\VariableHex.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\VariableHex\bin\Debug\VariableHex.pdb
+C:\Users\Administrator\Desktop\Homework - Primitive Data\VariableHex\obj\x86\Debug\VariableHex.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Homework - Primitive Data\VariableHex\obj\x86\Debug\VariableHex.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\VariableHex\obj\x86\Debug\VariableHex.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\VariableHex\obj\x86\Debug\VariableHex.exe
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\VariableHex\obj\x86\Debug\VariableHex.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\VariableHex\bin\Debug\VariableHex.exe
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\VariableHex\bin\Debug\VariableHex.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\VariableHex\obj\x86\Debug\VariableHex.csprojResolveAssemblyReference.cache

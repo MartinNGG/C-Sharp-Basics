@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Homework-Introduction\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\Administrator\Desktop\Homework-Introduction\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\Administrator\Desktop\Homework-Introduction\SquareRoot\obj\x86\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Homework-Introduction\SquareRoot\obj\x86\Debug\SquareRoot.exe
+C:\Users\Administrator\Desktop\Homework-Introduction\SquareRoot\obj\x86\Debug\SquareRoot.pdb

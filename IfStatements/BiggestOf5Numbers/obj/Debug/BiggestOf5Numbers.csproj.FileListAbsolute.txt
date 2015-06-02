@@ -1,0 +1,5 @@
+C:\SoftUni\My HM\IfStatements\BiggestOf5Numbers\bin\Debug\BiggestOf5Numbers.exe.config
+C:\SoftUni\My HM\IfStatements\BiggestOf5Numbers\bin\Debug\BiggestOf5Numbers.exe
+C:\SoftUni\My HM\IfStatements\BiggestOf5Numbers\bin\Debug\BiggestOf5Numbers.pdb
+C:\SoftUni\My HM\IfStatements\BiggestOf5Numbers\obj\Debug\BiggestOf5Numbers.exe
+C:\SoftUni\My HM\IfStatements\BiggestOf5Numbers\obj\Debug\BiggestOf5Numbers.pdb

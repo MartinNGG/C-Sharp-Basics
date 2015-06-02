@@ -1,0 +1,5 @@
+C:\SoftUni\My HM\IfStatements\Sort3NestedIfs\bin\Debug\Sort3NestedIfs.exe.config
+C:\SoftUni\My HM\IfStatements\Sort3NestedIfs\bin\Debug\Sort3NestedIfs.exe
+C:\SoftUni\My HM\IfStatements\Sort3NestedIfs\bin\Debug\Sort3NestedIfs.pdb
+C:\SoftUni\My HM\IfStatements\Sort3NestedIfs\obj\Debug\Sort3NestedIfs.exe
+C:\SoftUni\My HM\IfStatements\Sort3NestedIfs\obj\Debug\Sort3NestedIfs.pdb

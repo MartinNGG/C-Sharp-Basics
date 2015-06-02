@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Homework - Primitive Data\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+C:\Users\Administrator\Desktop\Homework - Primitive Data\StringsAndObjects\obj\x86\Debug\StringsAndObjects.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\StringsAndObjects\obj\x86\Debug\StringsAndObjects.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\StringsAndObjects\obj\x86\Debug\StringsAndObjects.exe
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\StringsAndObjects\obj\x86\Debug\StringsAndObjects.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\StringsAndObjects\bin\Debug\StringsAndObjects.pdb

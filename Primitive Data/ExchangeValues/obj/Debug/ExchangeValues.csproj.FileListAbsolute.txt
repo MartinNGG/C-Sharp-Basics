@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Homework - Primitive Data\ExchangeValues\bin\Debug\ExchangeValues.exe.config
+C:\Users\Administrator\Desktop\Homework - Primitive Data\ExchangeValues\bin\Debug\ExchangeValues.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\ExchangeValues\bin\Debug\ExchangeValues.pdb
+C:\Users\Administrator\Desktop\Homework - Primitive Data\ExchangeValues\obj\Debug\ExchangeValues.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\ExchangeValues\obj\Debug\ExchangeValues.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\ExchangeValues\bin\Debug\ExchangeValues.exe.config
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\ExchangeValues\obj\Debug\ExchangeValues.exe
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\ExchangeValues\obj\Debug\ExchangeValues.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\ExchangeValues\bin\Debug\ExchangeValues.exe
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\ExchangeValues\bin\Debug\ExchangeValues.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\ExchangeValues\obj\Debug\ExchangeValues.csprojResolveAssemblyReference.cache

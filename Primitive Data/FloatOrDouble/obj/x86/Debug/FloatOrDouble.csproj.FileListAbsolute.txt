@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Homework - Primitive Data\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+C:\Users\Administrator\Desktop\Homework - Primitive Data\FloatOrDouble\obj\x86\Debug\FloatOrDouble.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\FloatOrDouble\obj\x86\Debug\FloatOrDouble.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\FloatOrDouble\obj\x86\Debug\FloatOrDouble.exe
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\FloatOrDouble\obj\x86\Debug\FloatOrDouble.pdb

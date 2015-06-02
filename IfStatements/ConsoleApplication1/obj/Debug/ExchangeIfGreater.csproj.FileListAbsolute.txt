@@ -1,0 +1,3 @@
+C:\SoftUni\My HM\IfStatements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\SoftUni\My HM\IfStatements\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\SoftUni\My HM\IfStatements\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

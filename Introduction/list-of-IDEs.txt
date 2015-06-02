@@ -1,0 +1,12 @@
+Visual Studio - Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs for Microsoft Windows, as well as web sites, web applications and web services.Built-in languages include C,[6] C++ and C++/CLI (via Visual C++), VB.NET (via Visual Basic .NET), C# (via Visual C#), and F# 
+
+NetBeans - NetBeans is a software development platform written in Java. The NetBeans Platform allows applications to be developed from a set of modular software components called modules. Supports:
+Java SE, JavaFX
+Web and Java EE
+Java ME
+C/C++
+PHP (Version 6.5 and later)
+
+Eclipse - It contains a base workspace and an extensible plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications.Eclipse may also be used to develop applications in other programming languages: Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Lua, Natural, Perl, PHP, Prolog, Python, R, Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang.
+
+Mono Developer - MonoDevelop is an open source integrated development environment for Linux, OS X, and Windows. Its primary focus is development of projects that use Mono and .NET frameworks. MonoDevelop integrates features similar to those of NetBeans and Microsoft Visual Studio, such as automatic code completion, source control, a graphical user interface (GUI) and Web designer. MonoDevelop integrates a Gtk# GUI designer called Stetic. It supports Boo, C, C++, C#, CIL, D, F#, Java.

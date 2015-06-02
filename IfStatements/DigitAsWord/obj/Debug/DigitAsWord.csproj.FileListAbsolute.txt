@@ -1,0 +1,6 @@
+C:\SoftUni\My HM\IfStatements\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+C:\SoftUni\My HM\IfStatements\DigitAsWord\bin\Debug\DigitAsWord.exe
+C:\SoftUni\My HM\IfStatements\DigitAsWord\bin\Debug\DigitAsWord.pdb
+C:\SoftUni\My HM\IfStatements\DigitAsWord\obj\Debug\DigitAsWord.exe
+C:\SoftUni\My HM\IfStatements\DigitAsWord\obj\Debug\DigitAsWord.pdb
+C:\SoftUni\My HM\IfStatements\DigitAsWord\obj\Debug\DigitAsWord.csprojResolveAssemblyReference.cache

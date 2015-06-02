@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Homework - Primitive Data\NullValues\bin\Debug\NullValues.exe.config
+C:\Users\Administrator\Desktop\Homework - Primitive Data\NullValues\bin\Debug\NullValues.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\NullValues\bin\Debug\NullValues.pdb
+C:\Users\Administrator\Desktop\Homework - Primitive Data\NullValues\obj\Debug\NullValues.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\NullValues\obj\Debug\NullValues.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\NullValues\bin\Debug\NullValues.exe.config
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\NullValues\obj\Debug\NullValues.exe
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\NullValues\obj\Debug\NullValues.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\NullValues\bin\Debug\NullValues.exe
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\NullValues\bin\Debug\NullValues.pdb

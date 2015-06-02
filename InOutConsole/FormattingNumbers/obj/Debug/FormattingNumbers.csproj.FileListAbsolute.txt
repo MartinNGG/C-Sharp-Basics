@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\InOutConsole-HW\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\InOutConsole-HW\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+c:\users\administrator\documents\visual studio 2013\Projects\InOutConsole-HW\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\InOutConsole-HW\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+c:\users\administrator\documents\visual studio 2013\Projects\InOutConsole-HW\FormattingNumbers\obj\Debug\FormattingNumbers.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\InOutConsole-HW\FormattingNumbers\obj\Debug\FormattingNumbers.csprojResolveAssemblyReference.cache

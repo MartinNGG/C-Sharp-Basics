@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\InOutConsole-HW\1toN\bin\Debug\1toN.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\InOutConsole-HW\1toN\bin\Debug\1toN.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\InOutConsole-HW\1toN\bin\Debug\1toN.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\InOutConsole-HW\1toN\obj\Debug\1toN.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\InOutConsole-HW\1toN\obj\Debug\1toN.pdb

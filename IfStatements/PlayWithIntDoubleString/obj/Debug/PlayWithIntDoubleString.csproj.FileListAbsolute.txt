@@ -1,0 +1,5 @@
+C:\SoftUni\My HM\IfStatements\PlayWithIntDoubleString\bin\Debug\PlayWithIntDoubleString.exe.config
+C:\SoftUni\My HM\IfStatements\PlayWithIntDoubleString\bin\Debug\PlayWithIntDoubleString.exe
+C:\SoftUni\My HM\IfStatements\PlayWithIntDoubleString\bin\Debug\PlayWithIntDoubleString.pdb
+C:\SoftUni\My HM\IfStatements\PlayWithIntDoubleString\obj\Debug\PlayWithIntDoubleString.exe
+C:\SoftUni\My HM\IfStatements\PlayWithIntDoubleString\obj\Debug\PlayWithIntDoubleString.pdb

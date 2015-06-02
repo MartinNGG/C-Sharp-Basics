@@ -1,0 +1,5 @@
+C:\SoftUni\My HM\IfStatements\BiggestOf3Numbers\bin\Debug\BiggestOf3Numbers.exe.config
+C:\SoftUni\My HM\IfStatements\BiggestOf3Numbers\bin\Debug\BiggestOf3Numbers.exe
+C:\SoftUni\My HM\IfStatements\BiggestOf3Numbers\bin\Debug\BiggestOf3Numbers.pdb
+C:\SoftUni\My HM\IfStatements\BiggestOf3Numbers\obj\Debug\BiggestOf3Numbers.exe
+C:\SoftUni\My HM\IfStatements\BiggestOf3Numbers\obj\Debug\BiggestOf3Numbers.pdb

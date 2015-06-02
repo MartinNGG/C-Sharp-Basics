@@ -1,0 +1,5 @@
+C:\SoftUni\My HM\IfStatements\CheckForPlayCard\bin\Debug\CheckForPlayCard.exe.config
+C:\SoftUni\My HM\IfStatements\CheckForPlayCard\bin\Debug\CheckForPlayCard.exe
+C:\SoftUni\My HM\IfStatements\CheckForPlayCard\bin\Debug\CheckForPlayCard.pdb
+C:\SoftUni\My HM\IfStatements\CheckForPlayCard\obj\Debug\CheckForPlayCard.exe
+C:\SoftUni\My HM\IfStatements\CheckForPlayCard\obj\Debug\CheckForPlayCard.pdb

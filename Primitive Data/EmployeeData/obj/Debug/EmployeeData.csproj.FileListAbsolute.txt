@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Homework - Primitive Data\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\Administrator\Desktop\Homework - Primitive Data\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\Administrator\Desktop\Homework - Primitive Data\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\EmployeeData\obj\Debug\EmployeeData.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\EmployeeData\obj\Debug\EmployeeData.exe
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\EmployeeData\obj\Debug\EmployeeData.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\EmployeeData\bin\Debug\EmployeeData.exe
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\EmployeeData\bin\Debug\EmployeeData.pdb

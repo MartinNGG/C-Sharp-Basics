@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Homework - Primitive Data\DeclareVariables\bin\Debug\DeclareVariables.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\DeclareVariables\bin\Debug\DeclareVariables.pdb
+C:\Users\Administrator\Desktop\Homework - Primitive Data\DeclareVariables\obj\x86\Debug\DeclareVariables.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Homework - Primitive Data\DeclareVariables\obj\x86\Debug\DeclareVariables.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\DeclareVariables\obj\x86\Debug\DeclareVariables.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\DeclareVariables\obj\x86\Debug\DeclareVariables.exe
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\DeclareVariables\obj\x86\Debug\DeclareVariables.pdb

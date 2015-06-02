@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\InOutConsole-HW\SumOfNumbers\bin\Debug\SumOfNumbers.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\InOutConsole-HW\SumOfNumbers\bin\Debug\SumOfNumbers.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\InOutConsole-HW\SumOfNumbers\bin\Debug\SumOfNumbers.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\InOutConsole-HW\SumOfNumbers\obj\Debug\SumOfNumbers.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\InOutConsole-HW\SumOfNumbers\obj\Debug\SumOfNumbers.pdb

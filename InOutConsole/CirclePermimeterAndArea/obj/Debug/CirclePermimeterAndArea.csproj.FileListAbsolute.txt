@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\InOutConsole-HW\CirclePermimeterAndArea\bin\Debug\CirclePermimeterAndArea.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\InOutConsole-HW\CirclePermimeterAndArea\bin\Debug\CirclePermimeterAndArea.exe
+c:\users\administrator\documents\visual studio 2013\Projects\InOutConsole-HW\CirclePermimeterAndArea\bin\Debug\CirclePermimeterAndArea.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\InOutConsole-HW\CirclePermimeterAndArea\obj\Debug\CirclePermimeterAndArea.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\InOutConsole-HW\CirclePermimeterAndArea\obj\Debug\CirclePermimeterAndArea.exe
+c:\users\administrator\documents\visual studio 2013\Projects\InOutConsole-HW\CirclePermimeterAndArea\obj\Debug\CirclePermimeterAndArea.pdb

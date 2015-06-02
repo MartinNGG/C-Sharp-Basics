@@ -1,0 +1,11 @@
+C:\Users\Niki\Desktop\SoftUni\HW-IfStatements\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\Niki\Desktop\SoftUni\HW-IfStatements\BonusScore\bin\Debug\BonusScore.exe
+C:\Users\Niki\Desktop\SoftUni\HW-IfStatements\BonusScore\bin\Debug\BonusScore.pdb
+C:\Users\Niki\Desktop\SoftUni\HW-IfStatements\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\Niki\Desktop\SoftUni\HW-IfStatements\BonusScore\obj\Debug\BonusScore.pdb
+C:\SoftUni\My HM\IfStatements\BonusScore\bin\Debug\BonusScore.exe.config
+C:\SoftUni\My HM\IfStatements\BonusScore\obj\Debug\BonusScore.exe
+C:\SoftUni\My HM\IfStatements\BonusScore\obj\Debug\BonusScore.pdb
+C:\SoftUni\My HM\IfStatements\BonusScore\bin\Debug\BonusScore.exe
+C:\SoftUni\My HM\IfStatements\BonusScore\bin\Debug\BonusScore.pdb
+C:\SoftUni\My HM\IfStatements\BonusScore\obj\Debug\BonusScore.csprojResolveAssemblyReference.cache

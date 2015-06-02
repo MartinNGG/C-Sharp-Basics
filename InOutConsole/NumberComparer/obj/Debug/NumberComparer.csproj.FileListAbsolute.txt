@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2013\Projects\InOutConsole-HW\NumberComparer\bin\Debug\NumberComparer.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\InOutConsole-HW\NumberComparer\bin\Debug\NumberComparer.exe
+c:\users\administrator\documents\visual studio 2013\Projects\InOutConsole-HW\NumberComparer\bin\Debug\NumberComparer.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\InOutConsole-HW\NumberComparer\obj\Debug\NumberComparer.exe
+c:\users\administrator\documents\visual studio 2013\Projects\InOutConsole-HW\NumberComparer\obj\Debug\NumberComparer.pdb

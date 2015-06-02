@@ -1,0 +1,5 @@
+C:\SoftUni\My HM\IfStatements\BeerTime\bin\Debug\BeerTime.exe.config
+C:\SoftUni\My HM\IfStatements\BeerTime\bin\Debug\BeerTime.exe
+C:\SoftUni\My HM\IfStatements\BeerTime\bin\Debug\BeerTime.pdb
+C:\SoftUni\My HM\IfStatements\BeerTime\obj\Debug\BeerTime.exe
+C:\SoftUni\My HM\IfStatements\BeerTime\obj\Debug\BeerTime.pdb

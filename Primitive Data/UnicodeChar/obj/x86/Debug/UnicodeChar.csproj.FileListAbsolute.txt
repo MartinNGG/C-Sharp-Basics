@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Homework - Primitive Data\UnicodeChar\bin\Debug\UnicodeChar.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\UnicodeChar\bin\Debug\UnicodeChar.pdb
+C:\Users\Administrator\Desktop\Homework - Primitive Data\UnicodeChar\obj\x86\Debug\UnicodeChar.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\UnicodeChar\obj\x86\Debug\UnicodeChar.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\UnicodeChar\obj\x86\Debug\UnicodeChar.exe
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\UnicodeChar\obj\x86\Debug\UnicodeChar.pdb

@@ -1,0 +1,9 @@
+C:\Users\Niki\Desktop\SoftUni\HW-IfStatements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Niki\Desktop\SoftUni\HW-IfStatements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Niki\Desktop\SoftUni\HW-IfStatements\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Niki\Desktop\SoftUni\HW-IfStatements\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Desktop\SoftUni\HW-IfStatements\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Niki\Desktop\SoftUni\HW-IfStatements\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\SoftUni\My HM\IfStatements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\SoftUni\My HM\IfStatements\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\SoftUni\My HM\IfStatements\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Homework-Introduction\AfterTen\bin\Debug\AfterTen.exe
+C:\Users\Administrator\Desktop\Homework-Introduction\AfterTen\bin\Debug\AfterTen.pdb
+C:\Users\Administrator\Desktop\Homework-Introduction\AfterTen\obj\x86\Debug\AfterTen.exe
+C:\Users\Administrator\Desktop\Homework-Introduction\AfterTen\obj\x86\Debug\AfterTen.pdb
+C:\Users\Administrator\Desktop\Homework-Introduction\AfterTen\obj\x86\Debug\AfterTen.csprojResolveAssemblyReference.cache

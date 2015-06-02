@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Homework - Primitive Data\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\Administrator\Desktop\Homework - Primitive Data\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+C:\Users\Administrator\Desktop\Homework - Primitive Data\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

@@ -1,0 +1,1 @@
+C:\SoftUni\My HM\IfStatements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe.config

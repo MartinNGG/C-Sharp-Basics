@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\Homework-Introduction\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\Administrator\Desktop\Homework-Introduction\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\Administrator\Desktop\Homework-Introduction\PrintNumbers\obj\x86\Debug\PrintNumbers.exe
+C:\Users\Administrator\Desktop\Homework-Introduction\PrintNumbers\obj\x86\Debug\PrintNumbers.pdb

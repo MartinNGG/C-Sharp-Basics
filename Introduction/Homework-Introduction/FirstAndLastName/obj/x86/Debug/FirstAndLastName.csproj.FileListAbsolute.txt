@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\Homework-Introduction\FirstAndLastName\bin\Debug\FirstAndLastName.exe
+C:\Users\Administrator\Desktop\Homework-Introduction\FirstAndLastName\bin\Debug\FirstAndLastName.pdb
+C:\Users\Administrator\Desktop\Homework-Introduction\FirstAndLastName\obj\x86\Debug\FirstAndLastName.exe
+C:\Users\Administrator\Desktop\Homework-Introduction\FirstAndLastName\obj\x86\Debug\FirstAndLastName.pdb

@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\Homework-Introduction\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+C:\Users\Administrator\Desktop\Homework-Introduction\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+C:\Users\Administrator\Desktop\Homework-Introduction\CurrentDateAndTime\obj\x86\Debug\CurrentDateAndTime.exe
+C:\Users\Administrator\Desktop\Homework-Introduction\CurrentDateAndTime\obj\x86\Debug\CurrentDateAndTime.pdb

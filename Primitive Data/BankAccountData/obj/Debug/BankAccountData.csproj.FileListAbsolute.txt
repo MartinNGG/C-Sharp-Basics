@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Homework - Primitive Data\BankAccountData\bin\Debug\BankAccountData.exe.config
+C:\Users\Administrator\Desktop\Homework - Primitive Data\BankAccountData\bin\Debug\BankAccountData.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\BankAccountData\bin\Debug\BankAccountData.pdb
+C:\Users\Administrator\Desktop\Homework - Primitive Data\BankAccountData\obj\Debug\BankAccountData.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Homework - Primitive Data\BankAccountData\obj\Debug\BankAccountData.exe
+C:\Users\Administrator\Desktop\Homework - Primitive Data\BankAccountData\obj\Debug\BankAccountData.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\BankAccountData\bin\Debug\BankAccountData.exe.config
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\BankAccountData\obj\Debug\BankAccountData.exe
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\BankAccountData\obj\Debug\BankAccountData.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\BankAccountData\bin\Debug\BankAccountData.exe
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\BankAccountData\bin\Debug\BankAccountData.pdb
+C:\SoftUni\My HM\Primitive Data\Homework - Primitive Data\BankAccountData\obj\Debug\BankAccountData.csprojResolveAssemblyReference.cache
